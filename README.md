@@ -13,7 +13,7 @@ Optimización de horarios escolares
 
 Cada problema demuestra diferentes aplicaciones y configuraciones de algoritmos genéticos, mostrando su versatilidad para resolver problemas complejos.
 
-🏗Estructura del Proyecto
+Estructura del Proyecto
 text
 lab3-algoritmos-geneticos/
 │
